@@ -4,49 +4,57 @@
             "id": 1,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213408/Projects-API/hbprzwu0fx29dgxrwp6a.png",
             "title": "News Hub | News API",
-            "description": "This Project is made using free News API, users can fetch latest news by category wise. App is implemeted based on React, readt-router , axios library and talwind for designing.",
+            "description": "This Project is made using free News API, users can fetch latest news by category wise. App is implemeted based on React, readt-router , axios library and talwind css for designing.",
             "demo": "https://newsapi-pearl.vercel.app/",
-            "github": "/"
+            "github": "https://github.com/vrajkmrpatel/newsapi"
         },
         {
             "id": 2,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213407/Projects-API/ikhqkeqlsapzgola9d0f.png",
             "title": "Github User Finder",
-            "description": "Kedarnath is a town and Nagar Panchayat in Rudraprayag district of Uttarakhand, India, known primarily for the Kedarnath Temple.",
-            "demo": "/",
-            "github": "/"
+            "description": "I have made this simple project using Core Javascript to fetch Github API. It fetches user's all information using username and display a card information contain user's profile pic, follower count, bio and a Url to visit his/her github profile",
+            "demo": "https://vrajkmrpatel.github.io/GithubUserFinder/",
+            "github": "https://github.com/vrajkmrpatel/GithubUserFinder"
         },
         {
             "id": 3,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213408/Projects-API/q8tcbrvmq9llh418pkqd.png",
             "title": "IMDB CLONE",
-            "description": "Kedarnath is a town and Nagar Panchayat in Rudraprayag district of Uttarakhand, India, known primarily for the Kedarnath Temple.",
-            "demo": "/",
-            "github": "/"
+            "description": "IMDB clone using react , talwind css and TMDB API fetches popular, upcoming movies, added cast display component as per movie search",
+            "demo": "https://imdbclone-rosy.vercel.app/",
+            "github": "https://github.com/vrajkmrpatel/imdbclone"
         },
         {
             "id": 4,
-            "img": "./src/img/p-4.png",
+            "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213409/Projects-API/x9dv6apbfivwycya9wup.png",
             "title": "Tours & Travel Website",
-            "description": "Kedarnath is a town and Nagar Panchayat in Rudraprayag district of Uttarakhand, India, known primarily for the Kedarnath Temple.",
-            "demo": "/",
-            "github": "/"
+            "description": "Tours & Travel Website created using Core PHP, Bootstrap, Html and css.",
+            "demo": "https://saliferous-attacker.000webhostapp.com/",
+            "github": "https://files.000webhost.com/"
         },
         {
             "id": 5,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213406/Projects-API/zjisvlfqytqibglalcpq.jpg",
             "title": "Youtube Transcript Summarizer",
-            "description": "Kedarnath is a town and Nagar Panchayat in Rudraprayag district of Uttarakhand, India, known primarily for the Kedarnath Temple.",
+            "description": "Our Design & Engineering Project implemented using Java Server Pages & Servlet, added OpenAi api to summarize the youtube video provided link by user.",
             "demo": "/",
-            "github": "/"
+            "github": "https://github.com/CHAVDAYASHVANTSINH612/Youtube_Transcription_Sammerizer1"
         },
         {
             "id": 6,
+            "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714215610/Projects-API/pp6ccm0m6dkdwlpibtsr.png",
+            "title": "Quiz App | Android",
+            "description": "The app is developed using Android Studio, the code is written in Kotlin, basic authentication system & database operation is developed usig firebase by google",
+            "demo": "https://medium.com/@vrajkmr/made-a-quizapp-for-college-project-f7002790fffb",
+            "github": "/"
+        },
+        {
+            "id": 7,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213407/Projects-API/fxmukqonfl3a71lyoy38.png",
             "title": "Text Convertor",
-            "description": "Kedarnath is a town and Nagar Panchayat in Rudraprayag district of Uttarakhand, India, known primarily for the Kedarnath Temple.",
-            "demo": "/",
-            "github": "/"
+            "description": "This is my first developed project while learning react, you can perform several actions on text like copy, convert to uppercase or lowercase, remove text and also see the count of words.",
+            "demo": "https://textconverterproject.netlify.app/",
+            "github": "https://github.com/vrajkmrpatel/ReactWebsite"
         }
     ]
 }
