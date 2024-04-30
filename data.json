@@ -10,6 +10,14 @@
         },
         {
             "id": 2,
+            "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714477585/Projects-API/p9aaprue3jvx4etnkxqx.png",
+            "title": "JSON API",
+            "description": "This is a Backend Project, which consist of all the APIs data hosted on Render.com and I am using in my future & ongoing projects.",
+            "demo": "https://json-server-cpyj.onrender.com/",
+            "github": "https://github.com/vrajkmrpatel/json-server"
+        },
+        {
+            "id": 3,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213407/Projects-API/ikhqkeqlsapzgola9d0f.png",
             "title": "Github User Finder",
             "description": "I have made this simple project using Core Javascript to fetch Github API. It fetches user's all information using username and display a card information contain user's profile pic, follower count, bio and a Url to visit his/her github profile",
@@ -17,7 +25,7 @@
             "github": "https://github.com/vrajkmrpatel/GithubUserFinder"
         },
         {
-            "id": 3,
+            "id": 4,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213408/Projects-API/q8tcbrvmq9llh418pkqd.png",
             "title": "IMDB CLONE",
             "description": "IMDB clone using react , talwind css and TMDB API fetches popular, upcoming movies, added cast display component as per movie search",
@@ -25,7 +33,7 @@
             "github": "https://github.com/vrajkmrpatel/imdbclone"
         },
         {
-            "id": 4,
+            "id": 5,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213409/Projects-API/x9dv6apbfivwycya9wup.png",
             "title": "Tours & Travel Website",
             "description": "Tours & Travel Website created using Core PHP, Bootstrap, Html and css.",
@@ -33,7 +41,7 @@
             "github": "https://files.000webhost.com/"
         },
         {
-            "id": 5,
+            "id": 6,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213406/Projects-API/zjisvlfqytqibglalcpq.jpg",
             "title": "Youtube Transcript Summarizer",
             "description": "Our Design & Engineering Project implemented using Java Server Pages & Servlet, added OpenAi api to summarize the youtube video provided link by user.",
@@ -41,7 +49,7 @@
             "github": "https://github.com/CHAVDAYASHVANTSINH612/Youtube_Transcription_Sammerizer1"
         },
         {
-            "id": 6,
+            "id": 7,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714215610/Projects-API/pp6ccm0m6dkdwlpibtsr.png",
             "title": "Quiz App | Android",
             "description": "The app is developed using Android Studio, the code is written in Kotlin, basic authentication system & database operation is developed usig firebase by google",
@@ -49,7 +57,7 @@
             "github": "/"
         },
         {
-            "id": 7,
+            "id": 8,
             "img": "https://res.cloudinary.com/dc2b3ji7m/image/upload/v1714213407/Projects-API/fxmukqonfl3a71lyoy38.png",
             "title": "Text Convertor",
             "description": "This is my first developed project while learning react, you can perform several actions on text like copy, convert to uppercase or lowercase, remove text and also see the count of words.",
